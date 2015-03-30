@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>055828C1-CAD3-4A5B-8BE8-35DAB85FB146</string>
+	<key>IDESourceControlProjectName</key>
+	<string>circular_progress_bar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7EE9D95CD0398E70C2271F08348701DF4E007766</key>
+		<string>https://github.com/djmason9/circular_progress_bar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>circular_progress_bar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7EE9D95CD0398E70C2271F08348701DF4E007766</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/djmason9/circular_progress_bar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7EE9D95CD0398E70C2271F08348701DF4E007766</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EE9D95CD0398E70C2271F08348701DF4E007766</string>
+			<key>IDESourceControlWCCName</key>
+			<string>circular_progress_bar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
